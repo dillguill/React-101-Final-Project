@@ -1,4 +1,4 @@
-# React 101 Final Project
+# Star Wars Random Character Generator
 ## To View: https://dillguill-react-101-final-project.netlify.app
 
 # Getting Started with Create React App
