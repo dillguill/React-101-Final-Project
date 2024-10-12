@@ -1,5 +1,23 @@
 # Star Wars Random Character Generator
-## To View: https://dillguill-star-wars-generator.netlify.app
+
+## Overview
+This project is a **Star Wars Random Character Generator**, developed as part of my learning in the React 101 section of the [Ultimate Fullstack Web Development Bootcamp](https://www.udemy.com/course/the-ultimate-fullstack-web-development-bootcamp/).
+
+The application fetches random characters from the Star Wars universe and displays their details, such as name, height, and homeworld.
+
+## Features
+- Fetch random Star Wars characters using an API.
+- Display character details like name, height, and homeworld.
+- Simple React-based UI to generate a new random character with the click of a button.
+
+## What I Learned
+- Understanding React fundamentals: components, state, and props.
+- API calls in React using `fetch`.
+- Managing asynchronous data fetching and updating UI dynamically.
+- Working with basic event handling and user interaction in React.
+
+## Credits
+This project was based on the instructions from the React 101 section of the [Ultimate Fullstack Web Development Bootcamp](https://www.udemy.com/course/the-ultimate-fullstack-web-development-bootcamp/) on Udemy.
 
 # Getting Started with Create React App
 
