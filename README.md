@@ -1,5 +1,5 @@
 # Star Wars Random Character Generator
-## To View: https://dillguill-react-101-final-project.netlify.app
+## To View: https://dillguill-star-wars-generator.netlify.app
 
 # Getting Started with Create React App
 
